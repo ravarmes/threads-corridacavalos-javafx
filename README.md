@@ -31,7 +31,7 @@
 
 ## :computer: Instalação e execução <a name="-instalacao"/></a>
 
-0. Instale da JDK
+0. Instale a JDK
 1. Faça um clone desse repositório;
 2. Abra o projeto em uma IDE de sua preferência (NetBeans, Eclipse, VS Code, etc)
 
